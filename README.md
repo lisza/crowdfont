@@ -1,6 +1,6 @@
 # Crowdfont
 
-See it: https://lisza.github.io/crowdfont. Click anywhere to change view color.
+See it: https://lisza.github.io/crowdfont. Click anywhere to invert colors.
 
 These letter shapes are the common product of a bunch of people drawing
 letters in a box independently from one another with no context.
